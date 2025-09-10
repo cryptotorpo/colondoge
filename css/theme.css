@@ -1,0 +1,230 @@
+@media screen and (max-width: 480px) {
+  p {
+    font-size: 4vw;
+  }
+
+  nav .logo {
+    width: 15vw;
+  }
+
+  nav .buy {
+    width: 36vw;
+    margin-top: -4vw;
+  }
+
+  .header {
+    height: 175vw;
+  }
+
+  .header .main .avatar {
+    width: 100%;
+  }
+
+  .header .main {
+    padding: 0 5vw;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header .main h2 {
+    margin-top: 10vw;
+    font-size: 10vw;
+    text-align: center;
+  }
+
+  .header .main p {
+    font-size: 4vw;
+    text-align: center;
+    margin-bottom: 3vw;
+  }
+
+  .bottom_sec {
+    left: 29vw;
+  }
+  
+  .about .box h2{
+    text-align: center;
+  }
+
+  .bottom_sec .links img {
+    width: 14vw;
+  }
+
+  .bottom_sec .join_btn {
+    width: 35vw;
+    display: none;
+  }
+
+  .slider_M {
+    border-top: 2px solid #03150b;
+    border-bottom: 2px solid #03150b;
+    font-size: 4vw;
+    color: #03150b;
+    padding-top: 1.5vw;
+  }
+
+  .sliders img {
+    width: 48vw;
+  }
+
+  /* aboyt  */
+
+  .about {
+    padding: 7vw;
+    padding-bottom: 14vw;
+  }
+
+  .about .box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2vw;
+  }
+
+  .about .box .face {
+    width: 35vw;
+    transform: scale(1.2);
+    margin-bottom: 3vw;
+  }
+
+  .about .box p {
+    font-size: 3.5vw;
+    text-align: center;
+  }
+
+  .about .box a img {
+    width: 35vw;
+    padding-top: 5vw;
+    margin: auto;
+  }
+
+  /* CHAMIVERSE  */
+
+  .CHAMIVERSE .top_content {
+    position: absolute;
+    left: 24vw;
+    top: 4vw;
+  }
+
+  .CHAMIVERSE .top_content h1 {
+    font-size: 10vw;
+  }
+
+  .CHAMIVERSE .layar {
+    width: 45vw;
+  }
+
+  .CHAMIVERSE .main_box {
+    width: 100%;
+    position: absolute;
+    left: 0vw;
+    top: 25vw;
+    padding: 0 5vw;
+  }
+
+  .CHAMIVERSE .main_box .box {
+    background-color: #d4ff38;
+    border: 2px solid #03150b;
+    padding: 5vw;
+    color: #000;
+    margin-bottom: 2vw;
+  }
+
+  .CHAMIVERSE .main_box .box img {
+    width: 20vw;
+    margin-top: -1vw;
+  }
+
+  .CHAMIVERSE .main_box .box h2 {
+    font-size: 8vw;
+    margin-bottom: 1vw;
+  }
+
+  /* ==================tokenomice */
+  .tokenomice {
+    margin-top: 170vw;
+    gap: 5vw;
+    flex-direction: column-reverse;
+  }
+
+  .tokenomice h1 {
+    font-size: 13vw;
+    margin-bottom: 4vw;
+    text-align: center;
+  }
+
+  .tokenomice .box {
+    border: 2px solid #a3ff38;
+    padding: 2vw;
+    margin-bottom: 2vw;
+  }
+  .tokenomice .box h2 {
+    font-size: 7vw;
+  }
+  .tokenomice .box p {
+    word-wrap: break-word;
+  }
+
+  .howtobuy {
+    padding: 15vw 0;
+  }
+
+  .howtobuy .main-av {
+    width: 100%;
+  }
+
+  .howtobuy h1 {
+    font-size: 13vw;
+    margin-top: 1vw;
+    text-align: center;
+  }
+
+  .howtobuy p {
+    margin-top: 2vw;
+    text-align: center;
+    margin-bottom: 5vw;
+    font-size: 4vw;
+  }
+
+  footer .content .links img {
+    width: 15vw;
+  }
+
+  footer .content img {
+    width: 45vw;
+    margin-bottom: 3vw;
+  }
+
+  footer .content h2 {
+    font-size: 5vw;
+    text-align: center;
+  }
+
+  footer .img_1 {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5vw;
+  }
+
+  footer .img_2 {
+    position: static;
+    display: none;
+  }
+
+  .footer_imgs {
+    display: flex;
+    align-items: center;
+  }
+
+  footer h2 {
+    text-wrap: nowrap;
+  }
+
+  .music-button {
+    font-size: 16px;
+  }
+}
