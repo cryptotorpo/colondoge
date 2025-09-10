@@ -1,5 +1,5 @@
 • original site url
-https://www.coloncoineth.vip/
+https://www.colononeth.cc/
 
 • original telegram url
 https://t.me/
